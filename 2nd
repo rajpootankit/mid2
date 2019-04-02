@@ -1,0 +1,22 @@
+#describe four meathod of string with example:
+#ans:
+#1 len()
+a=input()
+print(len(a))
+
+
+#2 Title()
+a=input()
+ptint(a.Title())
+
+
+#3 
+a=input()
+for i in a:
+     print(i)
+
+
+#4 lower
+a=input()
+print(a.lower())
+
